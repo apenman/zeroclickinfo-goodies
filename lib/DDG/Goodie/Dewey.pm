@@ -63,7 +63,6 @@ handle remainder => sub {
             line($num, $output);
         }
     }
-
     else {
         $_ = sprintf "%03d", $_;
 

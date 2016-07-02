@@ -69,6 +69,7 @@ ddg_goodie_test(
     'dewey 644' => test_zci(build_structured_answer({
         "644" => "Household utilities"
     })),
+    'dewey decimal system' => undef,
 );
 
 done_testing;
